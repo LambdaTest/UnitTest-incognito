@@ -23,7 +23,7 @@ desired_caps = {
 
 ```
 
-## Step 4: Run your test
+## Run your test
 
 ```bash
 python lambdatest.py
